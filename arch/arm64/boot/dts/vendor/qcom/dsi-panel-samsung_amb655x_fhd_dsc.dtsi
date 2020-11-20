@@ -423,6 +423,7 @@
 
 			timing@1 {
 				qcom,mdss-dsi-timing-default;
+				qcom,mdss-dsi-splash-dms-switch-to-this-timing;
 				qcom,mdss-dsi-panel-framerate = <120>;
 				qcom,mdss-dsi-panel-clockrate = <1100000000>;
 				qcom,mdss-dsi-panel-width = <1080>;
